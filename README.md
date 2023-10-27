@@ -179,7 +179,7 @@
 
 #### 界面示例
 
-![img](image/asynccode.png)
+![asynccode](https://2023-backend-recruit-01.oss-cn-guangzhou.aliyuncs.com/asynccode.png)
 
 #### 其他要求
 
@@ -279,7 +279,7 @@
   * 306031875@qq.com
 * 咨询群：
 
-![微信图片_20231027011317](./image/image-group.jpg)
+![image-group](https://2023-backend-recruit-01.oss-cn-guangzhou.aliyuncs.com/image-group.jpg)
 
 * 注意：**请问一些有营养，值得回答的问题，有些问题可能不会收到回复**。问问题的方式参考：[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
